@@ -2,7 +2,7 @@ h1 {
   color: red;
   margin-left: 40px;
 }
-div.wpcheader {
-  background-color: #a6d2f;
+.wpcheader {
+  background-color: #000;
   padding: 40px;
 }
